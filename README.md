@@ -96,7 +96,7 @@ java -cp out Client 127.0.0.1 5555
 
 ---
 
-### Przykładowy scenariusz testowy
+## Przykładowy scenariusz testowy
 
 1. Uruchomić serwer.
 2. Uruchomić kilku klientów w osobnych terminalach.
@@ -108,7 +108,7 @@ java -cp out Client 127.0.0.1 5555
 
 ---
 
-### Autor
+## Autor
 
 ```bash
 Vladyslav Kosolap / 121266 
